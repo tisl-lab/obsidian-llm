@@ -1,0 +1,1 @@
+**Gestion de remise :** Nous avons mis a la disposition des utilisateurs une manière de rester a jour sur les remises de travaux. Il est possible de connecter son calendrier Moodle et de pouvoir avoir un page de gestion des travaux a remettre

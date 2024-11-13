@@ -1,6 +1,9 @@
 [
-  "calendar-plugin",
   "obsidian-kanban",
-  "obsidian-statusbar-pomo",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "calendar-plugin",
+  "calendar",
+  "pomodoro-timer",
+  "templater-obsidian",
+  "modalforms"
 ]
