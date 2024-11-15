@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d0f1d9c35a87aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outils d'etudes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outils d'etudes"
-            }
-          },
-          {
-            "id": "1a3a750fafe57fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outils de gestion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outils de gestion"
-            }
-          },
-          {
-            "id": "d86b70b7f0e138c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "b977d74f6ecaa8cc",
             "type": "leaf",
             "state": {
@@ -62,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Outils d'etudes"
             }
+          },
+          {
+            "id": "a87d0eaad9bded54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outils de gestion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outils de gestion"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,37 +171,6 @@
             }
           },
           {
-            "id": "a8300ecb1daffa91",
-            "type": "leaf",
-            "state": {
-              "type": "modal-form-edit-form-view",
-              "state": {
-                "title": "Session d'étude",
-                "name": "studySession",
-                "version": "1",
-                "fields": [
-                  {
-                    "name": "Taches",
-                    "label": "",
-                    "description": "Name",
-                    "input": {
-                      "type": "text",
-                      "allowUnknownValues": false,
-                      "hidden": false,
-                      "options": [],
-                      "source": "fixed",
-                      "folder": "",
-                      "body": ""
-                    },
-                    "isRequired": false
-                  }
-                ]
-              },
-              "icon": "note-glyph",
-              "title": "Edit form"
-            }
-          },
-          {
             "id": "edde795fb76f4e63",
             "type": "leaf",
             "state": {
@@ -237,6 +178,16 @@
               "state": {},
               "icon": "timer",
               "title": "Timer"
+            }
+          },
+          {
+            "id": "1f86f2c86c1f723a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -255,17 +206,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false
+      "modalforms:Edit forms": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d86b70b7f0e138c7",
+  "active": "a87d0eaad9bded54",
   "lastOpenFiles": [
-    "Outils de gestion.md",
-    "Untitled.md",
     "Outils d'etudes.md",
+    "Outils de gestion.md",
+    "test.md",
     "templates/study-modal.md",
     "Mat145.md",
     "templates",
