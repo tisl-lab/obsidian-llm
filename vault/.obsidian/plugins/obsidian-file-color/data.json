@@ -1,0 +1,44 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "YxhwN5mrRMzhspqzbuHBy",
+      "name": "Session",
+      "value": "#2196f3"
+    },
+    {
+      "id": "tEFONs9IRKaPw7jAVbKOA",
+      "name": "",
+      "value": "#4caf50"
+    },
+    {
+      "id": "-lhkvhAJwBWU7y3f1Jz3D",
+      "name": "",
+      "value": "#ff9800"
+    },
+    {
+      "id": "OGtJ8yz94H8BM6HSEmWAu",
+      "name": "",
+      "value": "#f00000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Documentation",
+      "color": "OGtJ8yz94H8BM6HSEmWAu"
+    },
+    {
+      "path": "ETS",
+      "color": "YxhwN5mrRMzhspqzbuHBy"
+    },
+    {
+      "path": "ETS/E2024",
+      "color": "tEFONs9IRKaPw7jAVbKOA"
+    },
+    {
+      "path": "ETS/E2024/MAT144",
+      "color": "-lhkvhAJwBWU7y3f1Jz3D"
+    }
+  ]
+}

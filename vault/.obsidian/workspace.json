@@ -13,30 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outils d'etudes.md",
+                "file": "Documentation/Outils de gestion.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outils d'etudes"
-            }
-          },
-          {
-            "id": "a87d0eaad9bded54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outils de gestion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outils de gestion"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -73,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -83,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Documentation/Outils de gestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              }
             }
           },
           {
@@ -127,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Documentation/Outils de gestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              }
             }
           },
           {
@@ -143,9 +116,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -154,10 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled"
+                "file": "Documentation/Outils de gestion.md"
+              }
             }
           },
           {
@@ -165,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -175,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "state": {}
             }
           },
           {
@@ -185,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "state": {}
             }
           }
         ],
@@ -195,33 +158,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
+      "command-palette:Open command palette": true,
+      "obsidian-kanban:Create new board": true,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
-      "modalforms:Edit forms": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a87d0eaad9bded54",
+  "active": "b977d74f6ecaa8cc",
   "lastOpenFiles": [
-    "Outils d'etudes.md",
-    "Outils de gestion.md",
+    "Documentation/Outils de gestion.md~",
+    "Documentation/4913",
+    "Documentation/Outils d'etudes.md",
+    "Documentation/Outils de gestion.md",
+    "ETS/E2024/MAT144",
+    "ETS/E2024",
+    "ETS",
+    "Documentation",
     "test.md",
     "templates/study-modal.md",
     "Mat145.md",
     "templates",
     "4913",
-    "Untitled",
     "Untitled.canvas",
     "2024-11-13.md",
     "Gestion remise.md",

@@ -5,5 +5,10 @@
   "calendar",
   "pomodoro-timer",
   "templater-obsidian",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "obsidian-icon-folder",
+  "iconic",
+  "obsidian-file-color",
+  "dataview",
+  "editing-toolbar"
 ]
