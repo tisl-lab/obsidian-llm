@@ -14,13 +14,24 @@ Nous avons mis a la disposition des utilisateurs une manière de rester a jour s
 
 L'utilisation d'une structure de dossier permet de mieux organiser ses notes et de se retrouver plus facilement. La structure suivante est une suggestion et vous êtes encouragé a la modifier pour qu'elle soit adapté a vos besoins.
 
-- En bleu sont les grandes categories
+- En bleu sont les grandes catégories
 - En vert sont les sessions
 - En orange sont les cours de la session
 
 Vous pouvez ensuite créer des notes dans les dossiers pour mieux organiser vos notes ou rajouter des d'autres couleurs pour ajouter d'autres dossiers
 
-1. Allez dans le parametre de obsidian
+1. Allez dans le paramètre de obsidian
 2. Dans community plugins, appuyiez sur 'File Color'
 3. Ajouter une couleur et donnez lui un nom
 4. Cliquer droit sur un dossier et appuyiez sur 'Set color' pour changer la couleur du dossier
+
+---
+
+##### Template de note
+
+Vous avez pouvez utilisez des template pre-fait pour les notes qui suivent un format similaire. Par exemple, un template pour les pages de cours est fourni dans le dossier `Templates` du vault. Pour l'ajouter :
+
+1. Creer une nouvelle note et appuyiez sur `Alt + N` ou l'icon `<%` de la barre gauche
+2. Choissisez le template que vous voulez utiliser
+3. Changez les informations pour qu'elles soient correctes
+
