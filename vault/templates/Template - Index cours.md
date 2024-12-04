@@ -1,12 +1,14 @@
-### To-do 
+### To-do
 
-%%Appuyer sur 'Control/Command + P' puis ajouter une tache pour ajouter des taches aux cours%%
+%%Appuyer sur 'Control/Command + P' puis 'create or edit task' pour ajouter des taches aux cours ou l'icon '+' de la barre%%
 
 ---
+
 ### Évaluations
 
 | **Date** | **Ponderation** |
 | -------- | --------------- |
+|          |                 |
 |          |                 |
 |          |                 |
 
@@ -17,6 +19,8 @@
 | **Date** | **Ponderation** |
 | -------- | --------------- |
 |          |                 |
+|          |                 |
+|          |                 |
 
 ---
 
@@ -26,4 +30,3 @@
 [[Cours 2 - Titre]]
 
 ---
-

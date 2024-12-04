@@ -39,5 +39,10 @@ Une fois prêt a tester vos flashcards, vous pouvez appuyer sur l'icone de carte
 
 Vous allez voir la question et essayer d'y répondre, vous marquez ensuite son niveau de difficulté. Plus vous marquez une question comme facile, moins elle vous est posé contrairement aux question marqué comme difficile.
 
+[[Cartes d'etudes]]
+
 ---
 
+##### Editeur de PDF
+
+Disponible est aussi un editeur/lecteur PDF pour vos notes de cours. Cet outils est particulièrement utile par il permet de faire des liens directement dans vos notes vers une section de votre PDF, ajouter un apercu d'une section.

@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Outils de gestion.md",
+                "file": "Documentation/Outils d'etudes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Outils d'etudes"
+            }
+          },
+          {
+            "id": "3e7e6b67b38e2ece",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documentation/Examples d'utilisations/PDF++/PDF-Example.pdf.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.8676470588235294
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF-Example.pdf"
+            }
+          },
+          {
+            "id": "f9c7296d60e5a104",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documentation/Examples d'utilisations/PDF++/PDF-Example.pdf.pdf",
+                "page": 11,
+                "left": -8,
+                "top": 743,
+                "zoom": 1.8676470588235294
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF-Example.pdf"
+            }
+          },
+          {
+            "id": "ebdda4c5c75c007a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation/Examples d'utilisations/Cartes d'etudes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cartes d'etudes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -39,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -48,13 +99,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/test",
+                "query": "tag:#flashcards/math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -62,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -85,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Outils de gestion.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +148,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -102,10 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Outils de gestion.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -116,7 +175,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +186,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Outils de gestion.md"
-              }
+                "file": "Documentation/Examples d'utilisations/Cartes d'etudes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Cartes d'etudes"
             }
           },
           {
@@ -134,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -142,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "timer-view",
-              "state": {}
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           },
           {
@@ -150,7 +217,29 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cartes à apprendre"
+            }
+          },
+          {
+            "id": "785235cfde3b7ccd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "432da6d9594f4abb",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
             }
           }
         ],
@@ -158,38 +247,60 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 554.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": true,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-spaced-repetition:Apprendre les flashcards": false,
       "obsidian-kanban:Create new board": true,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "modalforms:Edit forms": false,
+      "quiz-generator:Open generator": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b977d74f6ecaa8cc",
+  "active": "ebdda4c5c75c007a",
   "lastOpenFiles": [
-    "Documentation/Outils de gestion.md~",
-    "Documentation/4913",
+    "ETS/A2024/GTI411/GTI411_A24_C05_P01_FiltrageNonLineaire__75.pdf",
+    "templates/Template - Math.md",
+    "Quiz 1.md",
+    "templates/Template - Index cours.md",
+    "ETS/A2024/GTI411/GTI411 - Index.md",
+    "ETS/A2024/MAT144/MAT144 - Index.md",
+    "ETS/A2024/LOG680/Index.md",
+    "Documentation/Examples d'utilisations/PDF++/PDF-Example.pdf.pdf",
+    "Documentation/Examples d'utilisations/PDF++/Example d'utilisation.md",
     "Documentation/Outils d'etudes.md",
+    "ETS/A2024/GTI411/Cours 1 - Titre.md",
+    "Documentation/Examples d'utilisations/Cartes d'etudes.md",
+    "ETS/A2024/Cours session.md",
+    "ETS/A2024/LOG680",
     "Documentation/Outils de gestion.md",
-    "ETS/E2024/MAT144",
-    "ETS/E2024",
-    "ETS",
-    "Documentation",
+    "Documentation/Examples d'utilisations/PDF++",
+    "Documentation/Examples d'utilisations",
+    "Documentation/Sans titre.md",
+    "Quiz 2.md",
+    "Documentation/test.md",
+    "ETS/A2024/GTI411",
+    "GTI411.md",
+    "templates",
+    "Documentation/4913",
     "test.md",
+    "ETS/A2024/MAT144/index.md",
+    "ETS/A2024/MAT144",
+    "ETS/A2024",
     "templates/study-modal.md",
     "Mat145.md",
-    "templates",
-    "4913",
     "Untitled.canvas",
     "2024-11-13.md",
     "Gestion remise.md",

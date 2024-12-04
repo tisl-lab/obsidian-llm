@@ -2,5 +2,8 @@
   "cssTheme": "Notation 2",
   "showViewHeader": false,
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "index",
+    "dashboard.css"
+  ]
 }
